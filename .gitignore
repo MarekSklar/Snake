@@ -1,6 +1,9 @@
 # built js
 /src/js/**
 
+# package lock
+package-lock.json
+
 # Logs
 logs
 *.log
